@@ -1,0 +1,167 @@
+body {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: 300;
+    background: #e6e6e6;
+}
+.nav-link{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link:hover{
+    background-color: rgba(207, 207, 223, 0.418);
+    font-style: italic;
+    text-decoration: underline;
+}
+.social-part .fa{
+    padding-right:20px;
+}
+ul li a{
+    margin-right: 20px;
+}
+
+
+
+
+
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+.quote1{
+    font-style: oblique;
+    
+    font-weight: bold;
+}
+.card-text{
+    font-style: italic!important;
+}
+
+.nav-color{
+    
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #000000 0%, #ffffff 74%);
+    
+
+    
+}
+
+.food-title{
+    
+    font-weight: bold;
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    
+}
+.img{
+    width: 100mm;
+    height: 100mm;
+}
+
+.fitness-text{
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fitness-title{
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:royalblue
+
+    
+    
+}
+.join{
+    font-size: 17px;
+    text-decoration: underline ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.loseweight{
+    color: rgb(30, 219, 188);
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+
+.card-width{
+    height:500px ;
+    width: 500px;
+}
+
+#myDiv1{
+    display: none;
+}
+#myDiv2{
+    display: none;
+}
+
+#myDiv3{
+    display: none   ;
+}
+#myDiv4{
+display: none;
+}
+
+#myDiv5{
+    display: none;
+}
+
+#myDiv6{
+    display: none;
+}
+
+
+#myDiv7{
+    display: none;
+}
+#myDiv8{
+    display: none;
+}
+
+#myDiv9{
+    display: none   ;
+}
+#myDiv10{
+display: none;
+}
+
+#myDiv11{
+    display: none;
+}
+
+#myDiv12{
+    display: none;
+}
+
+
+.img-tadasana{
+    height: 280px;
+}
+
+
+
+
+.titlee{
+    color: rgb(30, 219, 188);
+    font-family: fantasy;
+}
+
+.yoga-title{
+    color: rgb(16, 104, 16);
+    font-family: fantasy;
+    text-decoration: underline;
+
+}
+
+.yogaa{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+
+}
